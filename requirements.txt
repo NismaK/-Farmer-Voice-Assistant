@@ -1,0 +1,4 @@
+streamlit==1.30.0
+murf==1.0.2
+requests==2.31.0
+deep-translator==1.11.1
